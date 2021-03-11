@@ -46,6 +46,14 @@
           "!type": "External",
           "file": [
             "forms",
+            "dogStoreApp",
+            "dogStoreApp.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
             "ECnestedLoops",
             "ECnestedLoops.json"
           ]
@@ -70,7 +78,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "cityWhile",
+      "firstform": "dogStoreApp",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
